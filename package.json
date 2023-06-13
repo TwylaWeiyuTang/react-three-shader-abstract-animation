@@ -1,0 +1,26 @@
+{
+  "name": "three-blob-animation",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.74.12",
+    "@react-three/fiber": "^8.13.0",
+    "@react-three/postprocessing": "^2.8.3",
+    "@types/three": "^0.152.1",
+    "dat.gui": "^0.7.9",
+    "eslint": "8.42.0",
+    "eslint-config-next": "13.4.4",
+    "gsap": "^3.11.5",
+    "next": "13.4.4",
+    "postprocessing": "^6.31.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "three": "^0.153.0"
+  }
+}
